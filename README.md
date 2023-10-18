@@ -7,7 +7,7 @@
 </div>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img align="left" style="margin-top: 10px;  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 
 
 
