@@ -6,11 +6,11 @@
   </a>
 </div>
 <div style="display:flex;align-items:center; justify-content: space-between;">
-<div   >
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-<div  >
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=KuiShang&show_icons=true&theme=synthwave" /> 
 </div>
 </div>
