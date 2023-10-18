@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuiShang&show_icons=true&theme=transparent" /> 
+</div>
+
 <!--
 **KuiShang/KuiShang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
